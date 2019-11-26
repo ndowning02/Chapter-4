@@ -1,0 +1,6 @@
+C:\Users\nd145438\Desktop\Chapter 4\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\nd145438\Desktop\Chapter 4\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\Users\nd145438\Desktop\Chapter 4\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\Users\nd145438\Desktop\Chapter 4\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 4\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\nd145438\Desktop\Chapter 4\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

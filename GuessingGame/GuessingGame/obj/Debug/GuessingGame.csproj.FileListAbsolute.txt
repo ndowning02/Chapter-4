@@ -1,0 +1,6 @@
+C:\Users\nd145438\Desktop\Chapter 4\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\nd145438\Desktop\Chapter 4\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\nd145438\Desktop\Chapter 4\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\nd145438\Desktop\Chapter 4\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 4\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\nd145438\Desktop\Chapter 4\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb

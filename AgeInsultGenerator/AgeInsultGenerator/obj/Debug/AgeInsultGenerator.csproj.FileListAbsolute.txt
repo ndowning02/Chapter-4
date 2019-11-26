@@ -1,0 +1,7 @@
+C:\Users\nd145438\Desktop\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\bin\Debug\AgeInsultGenerator.exe.config
+C:\Users\nd145438\Desktop\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\bin\Debug\AgeInsultGenerator.exe
+C:\Users\nd145438\Desktop\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\bin\Debug\AgeInsultGenerator.pdb
+C:\Users\nd145438\Desktop\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\AgeInsultGenerator.csprojAssemblyReference.cache
+C:\Users\nd145438\Desktop\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\AgeInsultGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\AgeInsultGenerator.exe
+C:\Users\nd145438\Desktop\Chapter 4\AgeInsultGenerator\AgeInsultGenerator\obj\Debug\AgeInsultGenerator.pdb

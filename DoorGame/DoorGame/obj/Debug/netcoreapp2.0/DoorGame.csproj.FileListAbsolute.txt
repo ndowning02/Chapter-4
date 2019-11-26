@@ -1,0 +1,11 @@
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\bin\Debug\netcoreapp2.0\DoorGame.deps.json
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\bin\Debug\netcoreapp2.0\DoorGame.runtimeconfig.json
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\bin\Debug\netcoreapp2.0\DoorGame.runtimeconfig.dev.json
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\bin\Debug\netcoreapp2.0\DoorGame.dll
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\bin\Debug\netcoreapp2.0\DoorGame.pdb
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.csprojAssemblyReference.cache
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.AssemblyInfoInputs.cache
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.AssemblyInfo.cs
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.dll
+C:\Users\nd145438\Desktop\Chapter 4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.pdb

@@ -1,0 +1,6 @@
+C:\Users\nd145438\Desktop\Chapter 4\Addmission\Addmission\bin\Debug\Addmission.exe.config
+C:\Users\nd145438\Desktop\Chapter 4\Addmission\Addmission\bin\Debug\Addmission.exe
+C:\Users\nd145438\Desktop\Chapter 4\Addmission\Addmission\bin\Debug\Addmission.pdb
+C:\Users\nd145438\Desktop\Chapter 4\Addmission\Addmission\obj\Debug\Addmission.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 4\Addmission\Addmission\obj\Debug\Addmission.exe
+C:\Users\nd145438\Desktop\Chapter 4\Addmission\Addmission\obj\Debug\Addmission.pdb

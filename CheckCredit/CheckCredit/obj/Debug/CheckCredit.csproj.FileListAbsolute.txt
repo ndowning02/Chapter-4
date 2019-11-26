@@ -1,0 +1,6 @@
+C:\Users\nd145438\Desktop\Chapter 4\CheckCredit\CheckCredit\bin\Debug\CheckCredit.exe.config
+C:\Users\nd145438\Desktop\Chapter 4\CheckCredit\CheckCredit\bin\Debug\CheckCredit.exe
+C:\Users\nd145438\Desktop\Chapter 4\CheckCredit\CheckCredit\bin\Debug\CheckCredit.pdb
+C:\Users\nd145438\Desktop\Chapter 4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.exe
+C:\Users\nd145438\Desktop\Chapter 4\CheckCredit\CheckCredit\obj\Debug\CheckCredit.pdb
